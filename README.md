@@ -8,5 +8,5 @@ Ejecutar este comando
 
 ...
 
-npm install
+`npm install`
 ...
